@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="236" viewBox="0 0 440 236" role="img" aria-label="Agent Workflow Studio">
+  <title>Agent Workflow Studio</title>
+  <defs>
+    <filter id="glow-agentworkflowstudio" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow2-agentworkflowstudio" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan-agentworkflowstudio" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity="0.28"/>
+    </pattern>
+    <radialGradient id="vig-agentworkflowstudio" cx="50%" cy="50%" r="75%">
+      <stop offset="60%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.55"/>
+    </radialGradient>
+    <linearGradient id="screen-agentworkflowstudio" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#071107"/>
+      <stop offset="1" stop-color="#040904"/>
+    </linearGradient>
+    <linearGradient id="sweep-agentworkflowstudio" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#39ff14" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#39ff14" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#39ff14" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="438" height="234" rx="10" fill="url(#screen-agentworkflowstudio)" stroke="#1d6b26" stroke-width="1.5"/>
+  <rect x="1" y="1" width="438" height="30" rx="10" fill="#0a170b"/>
+  <rect x="1" y="20" width="438" height="11" fill="#0a170b"/>
+  <line x1="1" y1="31" x2="439" y2="31" stroke="#1d6b26" stroke-width="1"/>
+  <circle cx="20" cy="16" r="5" fill="#ff4d4d" opacity="0.75"/>
+  <circle cx="37" cy="16" r="5" fill="#ffb000" opacity="0.75"/>
+  <circle cx="54" cy="16" r="5" fill="#22c55e" opacity="0.75"/>
+  <text x="220.0" y="20.5" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="12" fill="#5f9e6a">~/agent-workflow-studio</text>
+  <text x="22" y="58" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="12" fill="#22c55e">$<tspan fill="#5f9e6a"> cat README.md</tspan></text>
+  <text x="22" y="86" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="20" font-weight="700" fill="#39ff14" filter="url(#glow-agentworkflowstudio)">Agent Workflow Studio</text><text x="22" y="112" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="12.5" fill="#b8f7c0">Agent engine with planner, tools, memory</text><text x="22" y="130" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="12.5" fill="#b8f7c0">and a human approval gate.</text><text x="22" y="154" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="12.0" fill="#5f9e6a"><tspan fill="#39ff14">[✓]</tspan> retries and full execution logs</text>
+  <line x1="22" y1="198" x2="418" y2="198" stroke="#0f2a12" stroke-width="1" stroke-dasharray="2 4"/>
+  <circle cx="28" cy="214" r="5" fill="#f1e05a"/>
+  <text x="40" y="218" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="11.5" fill="#b8f7c0">JavaScript</text>
+  <text x="418" y="218" text-anchor="end" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="11.5" fill="#1d6b26">#agents  #hitl  #llmops</text>
+  <rect x="1" y="32" width="438" height="203" fill="url(#scan-agentworkflowstudio)" pointer-events="none"/>
+  <rect x="1" y="1" width="438" height="234" rx="10" fill="url(#vig-agentworkflowstudio)" pointer-events="none"/>
+</svg>
