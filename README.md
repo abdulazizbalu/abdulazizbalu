@@ -4,7 +4,7 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/portfolio-live-0f2a12?style=for-the-badge&logo=githubpages&logoColor=39ff14&labelColor=040904)](https://abdulazizbalu.github.io/balu-portfolio/)
+[![Portfolio](https://img.shields.io/badge/portfolio-live-0f2a12?style=for-the-badge&logo=githubpages&logoColor=39ff14&labelColor=040904)](https://balu.is-a.dev/)
 [![Telegram](https://img.shields.io/badge/telegram-@Abdulaziz6301-0f2a12?style=for-the-badge&logo=telegram&logoColor=39ff14&labelColor=040904)](https://t.me/Abdulaziz6301)
 [![LinkedIn](https://img.shields.io/badge/linkedin-connect-0f2a12?style=for-the-badge&logo=linkedin&logoColor=39ff14&labelColor=040904)](https://www.linkedin.com/in/abdulaziz-abdujalilov-436a4a250/)
 [![Email](https://img.shields.io/badge/mail-abdushkin2001-0f2a12?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=040904)](mailto:abdushkin2001@gmail.com)
